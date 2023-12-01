@@ -1,0 +1,11 @@
+{
+  "name": "advent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Les Kleuver",
+  "license": "MIT",
+  "scripts": {
+    "1": "node ./1/1.js"
+  }
+}
