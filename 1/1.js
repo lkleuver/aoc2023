@@ -1,14 +1,6 @@
 import { getInput } from "../util/index.js";
 
 const digits = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
-// const demons = [
-//   ["eightwo", "eight"],
-//   ["eighthree", "eight"],
-//   ["threeight", "three"],
-//   ["twone", "two"],
-//   ["sevenine", "seven"],
-//   ["nineight", "nine"]
-// ];
 
 async function run() {
   let input = getInput(1);
