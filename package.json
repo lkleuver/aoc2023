@@ -10,6 +10,7 @@
     "2": "node ./src/2.js",
     "3": "node ./src/3.js",
     "4": "node ./src/4.js",
-    "5": "node ./src/5.js"
+    "5": "node ./src/5.js",
+    "6": "node ./src/6.js"
   }
 }
